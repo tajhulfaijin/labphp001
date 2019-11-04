@@ -1,3 +1,3 @@
 <?php
 
-print_r('I\'m OK');
+print_r('I\'m OK and good');
